@@ -1,0 +1,38 @@
+Test Input:
+Input 1:
+
+4
+5
+10111
+10111
+11111
+10010
+
+Input 2:
+
+4
+5
+10100
+10111
+11111
+10010
+
+=======================================================================================================
+
+Output:
+Test case 1 output:
+0
+
+Expected result: 9 ==> Failed.
+Stats:
+Absolute running time: 0.07 sec, cpu time: 0.02 sec, memory peak: 5 Mb, absolute service time: 0,22 sec
+
+Test case 2 output:
+0
+
+Expected result: 6 ==> Failed.
+Stats:
+Absolute running time: 0.06 sec, cpu time: 0.02 sec, memory peak: 5 Mb, absolute service time: 0,23 sec
+
+
+Final Result: 0/2 (0%)
